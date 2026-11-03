@@ -9,13 +9,12 @@ I'm into backend, low-level development and emulators of old CPUs. I write in:
 ## 🛠️ Projects
 - 🔐 [**E2EMes**](https://github.com/angryduck1/E2EMes): E2E-encrypted messenger in C++ (Boost.Asio, libsodium, Redis), also rewritten in Go
 - 🎮 [**MagicDuckLandReborn**](https://github.com/angryduck1/MagicDuckLandReborn): private game server in C++
+- 🇻 [**vdb**](https://github.com/angryduck1/vdb): financial powerful data engine built in Rust.
 - 🕹️ [**i386emu**](https://github.com/angryduck1/i386emu) · [**MOS-6502**](https://github.com/angryduck1/MOS-6502-Emulator) · [**Intel4040**](https://github.com/angryduck1/Intel4040): CPU emulators
 - 🪨 [**cavetool**](https://github.com/angryduck1/cavetool): Go CLI that saves tokens with local LLMs
 
 ## 📊 My GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angryduck1&show_icons=true&theme=tokyonight)
-
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angryduck1&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=angryduck1&layout=compact&theme=tokyonight)
