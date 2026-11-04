@@ -1,5 +1,5 @@
 # 🦆 Hi, I'm angryduck1
-I'm into backend, low-level development and emulators of old CPUs. I write in:  
+I'm into backend, low-level development, ml inferences and emulators of old CPUs. I write in:  
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
